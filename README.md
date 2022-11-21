@@ -1,4 +1,4 @@
-# bash_adb_get_states
+# bash_adb_openhab
 A bash script suite for getting Android Devices states via ADB Network.
 
 ## short Description
